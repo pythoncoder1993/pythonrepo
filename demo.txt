@@ -1,2 +1,2 @@
 text file
-added a new text file
+added newline from local system
